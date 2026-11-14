@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="zipmart_purple">#6C35DE</color>
+    <color name="zipmart_purple_dark">#4B20A8</color>
+    <color name="zipmart_background">#F7F5FC</color>
+    <color name="zipmart_surface">#FFFFFF</color>
+    <color name="zipmart_text">#201A2B</color>
+    <color name="zipmart_muted">#756E80</color>
+    <color name="zipmart_green">#168A4A</color>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ZipMart</string>
+    <string name="welcome_title">Welcome to ZipMart</string>
+    <string name="welcome_subtitle">Your neighborhood stores, delivered.</string>
+    <string name="continue_guest">Continue as Guest</string>
+    <string name="sign_in_note">Local demo sign-in. No account or internet required.</string>
+    <string name="home_title">ZipMart</string>
+    <string name="home_subtitle">Shop from stores near you</string>
+    <string name="search_hint">Search groceries and essentials</string>
+    <string name="category_grocery">Groceries</string>
+    <string name="category_fruits">Fruits</string>
+    <string name="category_dairy">Dairy</string>
+    <string name="category_snacks">Snacks</string>
+    <string name="section_popular">Popular products</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="cart">Cart</string>
+    <string name="profile">Profile</string>
+    <string name="guest_account">Guest account</string>
+    <string name="logout">Log out</string>
+    <string name="logout_confirm">You have been logged out.</string>
+    <string name="cart_added">Added to cart</string>
+    <string name="cart_empty">Your cart is empty</string>
+</resources>
